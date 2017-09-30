@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jakub&#39;s Blog</title>
-    <link>http://hugo.spf13.com/</link>
+    <link>https://jakzale.github.io/</link>
     <description>Recent content on Jakub&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Sep 2017 09:35:11 +0200</lastBuildDate>
     
-	<atom:link href="http://hugo.spf13.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jakzale.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a Blog</title>
-      <link>http://hugo.spf13.com/blog/creating-a-blog/</link>
+      <link>https://jakzale.github.io/blog/creating-a-blog/</link>
       <pubDate>Sat, 30 Sep 2017 09:35:11 +0200</pubDate>
       
-      <guid>http://hugo.spf13.com/blog/creating-a-blog/</guid>
+      <guid>https://jakzale.github.io/blog/creating-a-blog/</guid>
       <description>I have been experimenting with a lot of different blog engines or static generation engines, but I for quite some time I couldn&amp;rsquo;t get myself to get into writting a blog. It seemed that quite often either the idea of setting up the static site generator was more distracting than writing the blog itself. Nedless to say, I repeatedly failed over and over again to write my own blog.</description>
     </item>
     

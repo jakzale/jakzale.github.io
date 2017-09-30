@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hugo.spf13.com/blog/creating-a-blog/</loc>
+    <loc>https://jakzale.github.io/blog/creating-a-blog/</loc>
     <lastmod>2017-09-30T09:35:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/about/</loc>
+    <loc>https://jakzale.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/blog/</loc>
-    <lastmod>2017-09-30T09:35:11+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hugo.spf13.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hugo.spf13.com/categories/hugo/</loc>
+    <loc>https://jakzale.github.io/blog/</loc>
     <lastmod>2017-09-30T09:35:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/</loc>
+    <loc>https://jakzale.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jakzale.github.io/categories/hugo/</loc>
     <lastmod>2017-09-30T09:35:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/categories/meta/</loc>
+    <loc>https://jakzale.github.io/</loc>
     <lastmod>2017-09-30T09:35:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.spf13.com/tags/</loc>
+    <loc>https://jakzale.github.io/categories/meta/</loc>
+    <lastmod>2017-09-30T09:35:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jakzale.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
